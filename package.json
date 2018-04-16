@@ -75,7 +75,7 @@
     ]
   },
   "browser": {
-    "when": "./dist/browser/when.js",
+    "when": "./when.js",
     "vertx": false
   },
   "directories": {
